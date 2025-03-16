@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pytesseract
+Pillow
+sqlalchemy
+psycopg2-binary
